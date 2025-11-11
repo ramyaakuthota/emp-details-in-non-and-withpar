@@ -34,7 +34,9 @@ namespace emp_details_in_non_and_withpar
             string info = obj.Display(101,"Ramya",50000);
             Console.WriteLine("details  informations");
             Console.WriteLine(info);
+
         }
+        Console.Writeline("welcome");
     }
 }
 //add line
